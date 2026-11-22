@@ -1,6 +1,6 @@
 <!-- ══════════════════ HEADER BANNER ══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=200&section=header&text=HASAN%20SHAHIR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=NED%2729%20%C2%B7%20Building%20%40%20Digivolve%20(hkh.agency)&descAlign=50&descAlignY=56&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=200&section=header&text=HASAN%20SHAHIR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=NED%2729%20%C2%B7%20Building%20%40%20hkh.agency&descAlign=50&descAlignY=56&descSize=16" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=640&lines=Full-Stack+%2B+AI%2FRAG+%2B+Systems;Idea+%E2%86%92+Architecture+%E2%86%92+Ship+%E2%86%92+Scale;Building+products+%40+Digivolve+%26+NED+University" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=640&lines=Full-Stack+%2B+AI%2FRAG+%2B+Systems;Idea+%E2%86%92+Architecture+%E2%86%92+Ship+%E2%86%92+Scale;Building+products+%40+hkh.agency+%26+NED+University" />
 </p>
 
 <!-- ══════════════════ MICRO STATS ══════════════════ -->
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://hkh.agency">
-    <img src="https://img.shields.io/badge/Digivolve%20(hkh.agency)-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Digivolve" />
+    <img src="https://img.shields.io/badge/hkh.agency-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="hkh.agency" />
   </a>
   <a href="https://codeforces.com/profile/hasanshahirconnect">
     <img src="https://img.shields.io/badge/Codeforces-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
@@ -38,7 +38,7 @@
 <!-- ══════════════════ ABOUT ══════════════════ -->
 ## About Me
 
-CS student at **NED University (`NED'29`)**, building production web platforms, AI/RAG systems, and algorithmic engines at **[Digivolve](https://hkh.agency)**.
+CS student at **NED University (`NED'29`)**, building production web platforms, AI/RAG systems, and algorithmic engines at **[hkh.agency](https://hkh.agency)**.
 
 I care about end-to-end engineering — from low-level graph routing in C++ to high-concurrency Next.js + Postgres backends and grounded LLM pipelines:
 
